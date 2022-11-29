@@ -3,7 +3,9 @@
 <div id="image-table">
     <table>
 	    <tr>
-            <img src="./images/PoP.gif" align="center" border="3" width="720" height="480">
+    	    <td align="center">
+        	    <img src="./images/PoP.gif" border="3" width="720" height="480">
+      	    </td>
         </tr>
     </table>
 </div>
